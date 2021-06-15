@@ -7,7 +7,6 @@ To build the code run:
 autoreconf --install
 ./configure
 make clean all
-make
 ----
 
 = Code Description
