@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(int argc, char* argv[]) {
-  int num = argc - 1;
+  int num = argc - 1
 
   if (num == 0) {
     cout << "No arguments provided\n";
